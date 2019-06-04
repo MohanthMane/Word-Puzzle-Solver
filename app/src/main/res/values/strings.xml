@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Word Puzzle solver</string>
+    <string name="set">Puzzle characters</string>
+    <string name="search">Search</string>
+</resources>
