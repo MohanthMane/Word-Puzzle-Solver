@@ -9,11 +9,11 @@ android {
             storePassword 'Mohanth30'
         }
     }
-    compileSdkVersion 'android-Q'
+    compileSdkVersion 28
     defaultConfig {
         applicationId "com.example.wordpuzzlesolver"
-        minSdkVersion 22
-        targetSdkVersion 'Q'
+        minSdkVersion 21
+        targetSdkVersion 28
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
