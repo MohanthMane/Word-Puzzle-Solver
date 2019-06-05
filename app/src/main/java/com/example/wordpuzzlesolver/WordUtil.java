@@ -62,6 +62,8 @@ public class WordUtil {
     * It avoids duplicate permutations
     * Using HashSet would be an efficient approach for this operation
      */
+
+    // TODO: Update this algorithm to utilise previous results to generate new ones
     static HashSet<String> distinctPermute(String str)
     {
         if (str.length() == 0) {
